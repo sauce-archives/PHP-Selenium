@@ -1,5 +1,4 @@
 <?php
-
   // Setup: $ php composer.phar require facebook/webdriver
 
   require_once('vendor/autoload.php');
