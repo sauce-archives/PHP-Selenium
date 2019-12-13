@@ -1,3 +1,5 @@
+## *NOTE* This repository is no longer maintained and is archived. It is here for reference only.
+
 # PHP-Selenium
 PHP Scripts used in the Sauce Labs DOCS wiki
 
